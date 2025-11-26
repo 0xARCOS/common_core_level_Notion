@@ -1,5 +1,5 @@
-// ⚠️ CONFIGURA TU TOKEN AQUÍ ⚠️
-const API_TOKEN = 'YOUR_ACCESS_TOKEN'; // Reemplaza con tu token de 42 API
+
+const API_TOKEN = 'https://api.intra.42.fr/oauth/authorize?client_id=u-s4t2ud-39730f098d5b7e73192025bd5de37b3ccdd4ea29b508c05c6e588c62e04c63ee&redirect_uri=https%3A%2F%2Fcommon-core-level-notion.vercel.app%2F&response_type=code';
 const COMMON_CORE_MAX = 11;
 
 let currentUser = null;
