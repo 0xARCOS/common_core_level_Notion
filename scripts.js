@@ -1,5 +1,5 @@
 
-const API_TOKEN = 'https://api.intra.42.fr/oauth/authorize?client_id=u-s4t2ud-39730f098d5b7e73192025bd5de37b3ccdd4ea29b508c05c6e588c62e04c63ee&redirect_uri=https%3A%2F%2Fcommon-core-level-notion.vercel.app%2F&response_type=code';
+const API_TOKEN = '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';
 const COMMON_CORE_MAX = 11;
 
 let currentUser = null;
