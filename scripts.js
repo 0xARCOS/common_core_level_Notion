@@ -1,5 +1,5 @@
 
-const API_TOKEN = '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';
+const API_TOKEN = 'u-s4t2ud-39730f098d5b7e73192025bd5de37b3ccdd4ea29b508c05c6e588c62e04c63ee';
 const COMMON_CORE_MAX = 11;
 
 let currentUser = null;
